@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-🎓 **M.Sc. in Computer Science & Engineering (Running)** – Jahangirnagar University  
+🎓 **M.Sc. in Computer Science & Engineering** – Jahangirnagar University  
 🎓 **B.Sc. in Computer Science & Engineering** – Daffodil International University
 
 💡 Results-driven **CSE graduate** with expertise in **Python, C/C++, Machine Learning, and Data Science**.  
