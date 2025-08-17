@@ -54,12 +54,12 @@
 </p>
 
 <p align="center">
-  <!-- Tictactoe Game -->
+  <!-- Tic Tac Toe -->
   <a href="https://opee-tictactoe.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/TicTacToe%20Game-0072ff?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tic%20Tac%20Toe-ff006a?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
   <br/>
-  <i>🎮 A classic TicTacToe Game built for the web with simple and fun gameplay.</i>
+  <i>❌⭕ A futuristic Tic Tac Toe game with win/draw highlights and smooth UI.</i>
 </p>
 
 ---
