@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me  
 
 🎓 **M.Sc. in Computer Science & Engineering** – Jahangirnagar University  
-🎓 **B.Sc. in Computer Science & Engineering** – Daffodil International University
+🎓 **B.Sc. in Computer Science & Engineering** – Daffodil International University  
 
 💡 Results-driven **CSE graduate** with expertise in **Python, C/C++, Machine Learning, and Data Science**.  
 ⚡ Skilled in **Data Analysis, Business Intelligence (Power BI), and Networking (CCNA)**.  
@@ -23,78 +23,13 @@
 ## 🚀 Tech Universe  
 
 <p align="center">
-  <!-- Row 1: Programming & Core -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,php,mysql" /><br/>
-  
-  <!-- Row 2: ML & Data Science -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br/>
-  
-
-  <!-- Row 3: IDEs & Notebook -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode,git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeblocks/codeblocks-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" width="40" height="40"/><br/>
-
-  <!-- Row 4: BI & Visualization -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,php,mysql,vscode,git,github,anaconda,jupyter,pycharm" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd" />
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-2.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40"/><br/>
-
-
-  <!-- Row 5: UI/UX & Graphics -->
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-  <img src="https://skillicons.dev/icons?i=xd" />
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-2.svg" width="40" height="40"/><br/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40"/>
 </p>
-
-
-
----
-
-## 📂 Featured Projects  
-
-### 🌱 Smart Crop Recommendation System (ML + ANN)  
-🔹 Role: Machine Learning Engineer  
-🔹 Technologies: Python, Keras, Scikit-Learn, Pandas, NumPy, Seaborn  
-🔹 Dataset: 50,000 Bangladeshi soil & environment records  
-🔹 Highlights: ANN optimization, preprocessing, hyperparameter tuning, visualization  
-📌 [View Project on Kaggle](https://www.kaggle.com/code/mubtasimfuadopee/bd-smart-crop-recommendation-system)  
-
----
-
-### 📊 AdventureWorks Sales Analysis Dashboard (Power BI)  
-🔹 Role: Data Analyst  
-🔹 Tools: Power BI, Excel, DAX  
-🔹 Highlights: Revenue trends, product performance, regional sales insights  
-📌 Delivered actionable business intelligence through interactive dashboards.  
-
----
-
-### 💰 Cashopia – Personal Finance Web App  
-🔹 Role: Frontend Developer  
-🔹 Technologies: HTML, CSS, JavaScript, Chart.js  
-🔹 Features: Dark/Light mode, multiple currencies, interactive visualizations, accessibility  
-📌 [Live Demo](https://cashopia.netlify.app/)  
-
----
-
-## 🎓 Trainings & Certifications  
-
-- 📜 **CCNA (Ongoing, 2025)** – BITM  
-- 📜 **Data Science & Analysis (Ongoing, 2025)** – Cryzotech  
-- 📜 **Real-World ML Projects** – Udemy (2024)  
-- 📜 **Graphic Design Certification** – Signature Mind Institute (2022)  
-- 📜 **English & Business Communication** – Skill Jobs (2023)  
-- 📜 **National Skill Standard Basic (360 Hrs)** – Digital Computer Training Centre (2017)  
 
 ---
 
@@ -111,13 +46,47 @@
 
 ---
 
+## 🚀 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Opee99&theme=react-dark&hide_border=true&area=true&custom_title=Opee99%20Contribution%20Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Opee99&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💡 Fun Facts  
+
+- 🧠 Love exploring **AI, Data Science, and Algorithms**  
+- 🎨 Enjoys **graphic design & creative visualization**  
+- 🏸 Plays **badminton & chess** to relax  
+- ☕ Coffee fuels most of my coding sessions  
+
+---
+
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="mailto:mubtasimfuad99@gmail.com"><img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mfopee.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mubtasimfuadopee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mubtasimfuad99@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
+  </a>
+  <a href="https://mfopee.netlify.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" width="45" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/mubtasimfuadopee">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
 </p>
+
+
+
 
 ---
 
