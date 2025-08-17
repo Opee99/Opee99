@@ -33,6 +33,28 @@
 
 ---
 
+## 🚀 Live Projects  
+
+<p align="center">
+  <!-- Cashopia -->
+  <a href="https://cashopia.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Cashopia-00c6ff?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <br/>
+  <i>💰 A Money Management Web App to track expenses and savings efficiently.</i>
+</p>
+
+<p align="center">
+  <!-- Snake Game -->
+  <a href="https://opee-snakegame.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Snake%20Game-0072ff?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+  <br/>
+  <i>🎮 A classic Snake Game built for the web with simple and fun gameplay.</i>
+</p>
+
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
